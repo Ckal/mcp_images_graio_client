@@ -1,5 +1,5 @@
 gradio>=4.44.0
-gradio>=4.44.0[mcp] 
+gradio[mcp]>=4.44.0
 gradio>=4.44.0_client>=0.8.0
 Pillow>=9.0.0
 requests>=2.25.0
